@@ -24,6 +24,6 @@ public class IoNioMain {
 //        serialUser.test();
 
         JsonTest jsonTest = new JsonTest();
-        jsonTest.test();
+        jsonTest.someJson();
     }
 }
