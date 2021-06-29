@@ -1,12 +1,1 @@
-[
-  {
-    "firstName" : "first1",
-    "lastName" : "last1",
-    "fullName" : "first1 last1"
-  },
-  {
-    "firstName" : "first2",
-    "lastName" : "last2",
-    "fullName" : "first2 last2"
-  }
-]
+[{"firstName" : "first1", "lastName" : "last1", "fullName" : "first1 last1"}, {"firstName" : "first2", "lastName" : "last2", "fullName" : "first2 last2"}]
