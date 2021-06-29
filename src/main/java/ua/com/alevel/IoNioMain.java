@@ -1,6 +1,7 @@
 package ua.com.alevel;
 
 import ua.com.alevel.crud.CrudFileService;
+import ua.com.alevel.crud.JsonTest;
 import ua.com.alevel.crud.ReadWriteFile;
 import ua.com.alevel.crud.SerialUser;
 
@@ -19,7 +20,10 @@ public class IoNioMain {
 //        ReadWriteFile readWriteFile = new ReadWriteFile();
 //        readWriteFile.readFile(FILE_NAME);
 
-        SerialUser serialUser = new SerialUser();
-        serialUser.test();
+//        SerialUser serialUser = new SerialUser();
+//        serialUser.test();
+
+        JsonTest jsonTest = new JsonTest();
+        jsonTest.test();
     }
 }
